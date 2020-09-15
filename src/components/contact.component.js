@@ -62,10 +62,10 @@ function Contact() {
                             <p className="mb-4">Cité keur Damel, en face cité Mixta</p>
 
                             <p className="mb-0 font-weight-bold">Téléphone</p>
-                            <p className="mb-4"><a href="#">+1 232 3235 324</a></p>
+                            <p className=" mb-4"><a href="tel:221778281667">+221 77 828 16 67</a></p>
 
                             <p className="mb-0 font-weight-bold">Adresse Email</p>
-                            <p className="mb-0"><a href="#">youremail@domain.com</a></p>
+                            <p className="mb-0"><a href="mailto:contact@spark-numeric.com">contact@spark-numeric.com</a></p>
 
                             </div>
                             

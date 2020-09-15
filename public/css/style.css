@@ -106,7 +106,13 @@ h1, h2, h3, h4, h5,
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 5em 0; } }
+      padding: 5em 0; }
+    
+    /* Affichage du numéro de téléphone sur mobile uniquement */
+    .mobileOnly {
+      /* visibility: hidden; */
+    }
+  }
   .site-section.site-section-sm {
     padding: 4em 0; }
 

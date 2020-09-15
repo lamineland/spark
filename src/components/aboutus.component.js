@@ -21,7 +21,8 @@ function About() {
                         </div>
                     </div>
                     <div className="col-12 mb-4">
-                        <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet incidunt magnam corrupti, odit eos harum quaerat nostrum voluptatibus aspernatur eligendi accusantium cum, impedit blanditiis voluptate commodi doloribus, nemo dignissimos recusandae.</p>
+                        <p className="lead">Spark Numeric est une startup qui promeut la digitalisation des entreprises et la formation aux nouvelles technologies. Nos cibles sont les PME, les institutions publiques ou privées
+                                            et le secteur informel. </p>
                     </div>
                     <div className="col-md-12 mb-md-5 mb-0 col-lg-6">
                         <div className="unit-4">
