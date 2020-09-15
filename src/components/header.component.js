@@ -15,10 +15,10 @@ function Header() {
                                 <ul className="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                                     <li><a href="#home-section" className="nav-link">Accueil</a></li>
                                     <li className="has-children">
-                                        <a href="#about-section" className="nav-link">About</a>
+                                        <a href="#about-section" className="nav-link">A propos</a>
                                         <ul className="dropdown">
-                                        <li><a href="#about-section">Specialties</a></li>
-                                        <li><a href="#team-section">Our Team</a></li>
+                                        <li><a href="#about-section">Specialtés</a></li>
+                                        <li><a href="#team-section">L'équipe</a></li>
                                         </ul>
                                     </li>
                                     <li>

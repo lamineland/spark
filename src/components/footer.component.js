@@ -10,19 +10,20 @@ function Footer() {
                         <div className="row">
                         <div className="col-md-5">
                             <h2 className="footer-heading mb-4">A propos</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque facere laudantium magnam voluptatum autem. Amet aliquid nesciunt veritatis aliquam.</p>
+                            <p>Spark Numeric est une startup qui promeut la digitalisation des entreprises et la formation aux nouvelles technologies. Nos cibles sont les PME, les institutions publiques ou privées
+                                            et le secteur informel.</p>
                         </div>
                         <div className="col-md-3 ml-auto">
-                            <h2 className="footer-heading mb-4">Features</h2>
+                            <h2 className="footer-heading mb-4">Liens</h2>
                             <ul className="list-unstyled">
-                            <li><a href="#">A propos</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Testimonials</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="#about-section">A propos</a></li>
+                            <li><a href="#services-section">Services</a></li>
+                            <li><a href="#blog-section">Formations</a></li>
+                            <li><a href="#contact-section">Contact</a></li>
                             </ul>
                         </div>
                         <div className="col-md-3">
-                            <h2 className="footer-heading mb-4">Follow Us</h2>
+                            <h2 className="footer-heading mb-4">Nous suivre</h2>
                             <a href="#" className="pl-0 pr-3"><span className="icon-facebook"></span></a>
                             <a href="#" className="pl-3 pr-3"><span className="icon-twitter"></span></a>
                             <a href="#" className="pl-3 pr-3"><span className="icon-instagram"></span></a>
