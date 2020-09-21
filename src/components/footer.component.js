@@ -48,7 +48,7 @@ function Footer() {
                         <div className="border-top pt-5">
                         <p>
                         {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Fait <i className="icon-heart text-danger" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank" >Spark Numeric</a>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tous droits réservés | Fait <i className="icon-heart text-danger" aria-hidden="true"></i> par <a href="https://colorlib.com" target="_blank" >Spark Numeric</a>
                         {/* <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
                         </p>
                         </div>

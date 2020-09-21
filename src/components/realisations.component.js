@@ -2,9 +2,9 @@ import React from 'react'
 import img_1 from '../images/img_1.jpg'
 import img_2 from '../images/img_2.jpg'
 import img_3 from '../images/img_3.jpg'
-import img_4 from '../images/img_4.jpg'
-import img_5 from '../images/img_5.jpg'
-import img_6 from '../images/img_6.jpg'
+// import img_4 from '../images/img_4.jpg'
+// import img_5 from '../images/img_5.jpg'
+// import img_6 from '../images/img_6.jpg'
 
 function Realisations() {
     return (
@@ -22,7 +22,7 @@ function Realisations() {
                     <div className="row">
                     <div className="col-md-6 col-lg-4">
                         <a href="images/img_1.jpg" className="media-1" data-fancybox="gallery">
-                        <img src={img_1} alt="Image" className="img-fluid"/>
+                        <img src={img_1} alt="Bonzai Tree" className="img-fluid"/>
                         <div className="media-1-content">
                             <h2>Bonzai Tree</h2>
                             <span className="category">Web Application</span>
@@ -31,7 +31,7 @@ function Realisations() {
                     </div>
                     <div className="col-md-6 col-lg-4">
                         <a href="images/img_2.jpg" className="media-1" data-fancybox="gallery">
-                        <img src={img_2} alt="Image" className="img-fluid"/>
+                        <img src={img_2} alt="img2" className="img-fluid"/>
                         <div className="media-1-content">
                             <h2>Simple Woman</h2>
                             <span className="category">Branding</span>
@@ -40,7 +40,7 @@ function Realisations() {
                     </div>
                     <div className="col-md-6 col-lg-4">
                         <a href="images/img_3.jpg" className="media-1" data-fancybox="gallery">
-                        <img src={img_3} alt="Image" className="img-fluid"/>
+                        <img src={img_3} alt="img3" className="img-fluid"/>
                         <div className="media-1-content">
                             <h2>Fruits</h2>
                             <span className="category">Website</span>

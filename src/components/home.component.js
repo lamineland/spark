@@ -11,8 +11,8 @@ function Home() {
                                         
                             <div className="row justify-content-center mb-4">
                             <div className="col-md-8 text-center">
-                                <h1>We Love To Build <span className="typed-words">Spark</span></h1>
-                                <p className="lead mb-5">Free Web Template by <a href="#" target="_blank">Colorlib</a></p>
+                                <h1>We Love To Build <span className="typed-words">Sparkly</span></h1>
+                                {/* <p className="lead mb-5">Free Web Template by <a href="#" target="_blank">Colorlib</a></p> */}
                                 <div><a data-fancybox data-ratio="2" href="https://vimeo.com/317571768" className="btn btn-primary btn-md">Watch Video</a></div>
                             </div>
                             </div>
