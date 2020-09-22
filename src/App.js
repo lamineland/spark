@@ -10,12 +10,15 @@ import Services from './components/services.component'
 import Formations from './components/formations.component'
 import Contact from './components/contact.component'
 import Footer from './components/footer.component'
+import Slides from './components/slidering.component'
+
 
 function App() {
   return (
     <>
       <Header/>
-      <Home/>
+      {/* <Home/> */}
+      <Slides />
       <About/>
       <OurTeam/>
       <Services/>
